@@ -16,7 +16,7 @@ export default function Main() {
 
             <div className='mt-[10%] flex flex-col gap-0 leading-none'>
                 <SiAboutdotme size={100} />
-                <p>I love to create products from scratch, i ship fast and clean code.</p>
+                <p>Im from Argentina, i study computer science ,i love to create products from scratch.</p>
             </div>
 
         </div>
