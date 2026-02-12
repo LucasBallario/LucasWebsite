@@ -11,6 +11,15 @@ const ProjectsL = [
         code: 'https://github.com/LucasBallario/Pathway'
     } ,
     {
+        title: 'Oslo Agent' ,
+        description: 'IA refund agent' ,
+        stack: 'Next.js • Upstash Workflow • Vercel AI SDK • OpenAI • Slack API • Tailwind CSS'  ,
+        info: 'View project',
+        info2: 'Code',
+        url:'https://oslo-agent.vercel.app/' ,
+        code: 'https://github.com/LucasBallario/Oslo'
+    },
+    {
         title: 'Sketcha' ,
         description: 'Convert sketch into professional renders' ,
         stack: 'Next.js • React • Tailwind CSS • Supabase • Stripe • AI Image Generation • Credit-Based System • Secure Auth'  ,
